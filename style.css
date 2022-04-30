@@ -1,0 +1,25 @@
+body{
+background:seagreen;}
+#score{
+float: left;
+font-family: 'Indie Flower', cursive;
+font-size: 40px;
+padding-left: 100px;
+}
+#timer{
+float: right;
+font-family: 'Indie Flower', cursive;
+font-size: 40px;
+padding-right: 100px;
+}
+h1{
+font-family: 'Rock Salt', cursive;
+font-size: 55px;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+#sketch_to_be_drawn{
+color: white;
+}
